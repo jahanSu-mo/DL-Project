@@ -1,0 +1,11 @@
+# .venv/
+# __pycache__/
+# *.pyc
+# .env
+# saved_mental_status_bert/
+
+.venv/
+__pycache__/
+*.pyc
+
+saved_mental_status_bert/
